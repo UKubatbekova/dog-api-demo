@@ -40,8 +40,8 @@ The button is disabled while the request runs, then re-enabled once it finishes
 
 ## API Reference
 
-Single random image https://dog.ceo/api/breeds/image/random
-Multiple random images (3) https://dog.ceo/api/breeds/image/random/3
+- Single random image https://dog.ceo/api/breeds/image/random
+- Multiple random images (3) https://dog.ceo/api/breeds/image/random/3
 
 ## Project Purpose:
 
@@ -49,8 +49,8 @@ This project was created as a learning exercise to practice working with fetch, 
 
 ## Author:
 
-Designed and built by Umsunai Kubatbekova
-LinkedIn: https://www.linkedin.com/in/ukubatbekova
+- Designed and built by Umsunai Kubatbekova
+- LinkedIn: https://www.linkedin.com/in/ukubatbekova
 
 ## License:
 
